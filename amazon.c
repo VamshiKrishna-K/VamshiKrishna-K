@@ -13,7 +13,7 @@ p=fopen("a1z.txt","r");
   k=fopen("a2z.txt","r");
   while((c=getc(k))!=EOF)
     {
-    if(c==ch)
+    if(c==ch&& getc(c)==:)
     {
       while((c=getc(k))!='.')
         printf("%c",c);
