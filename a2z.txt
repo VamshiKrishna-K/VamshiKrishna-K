@@ -1,0 +1,102 @@
+1.Electronics
+1. Smartphones
+2. Laptops
+3. Tablets
+4. Smartwatches
+5. Gaming consoles
+6. TVs
+7. Headphones
+8. Speakers
+9. Power banks
+10. Chargers
+
+Fashion
+1. Clothing (men, women, kids)
+2. Footwear (shoes, sandals, boots)
+3. Accessories (hats, scarves, belts)
+4. Jewelry (necklaces, earrings, rings)
+5. Watches
+6. Sunglasses
+7. Handbags
+8. Wallets
+
+Home and Kitchen
+1. Furniture (sofas, beds, tables)
+2. Home decor (artwork, rugs, curtains)
+3. Kitchen appliances (refrigerators, ovens, mixers)
+4. Cookware (pots, pans, utensils)
+5. Dinnerware (plates, bowls, cups)
+6. Home security systems
+7. Gardening tools
+
+Health and Beauty
+1. Skincare products (creams, serums, moisturizers)
+2. Haircare products (shampoos, conditioners, oils)
+3. Makeup and cosmetics
+4. Fragrances (perfumes, colognes)
+5. Health supplements (vitamins, proteins)
+6. Fitness equipment (treadmills, yoga mats)
+7. Medical devices (blood pressure monitors, thermometers)
+
+Baby and Kids
+1. Toys (action figures, dolls, puzzles)
+2. Strollers and prams
+3. Car seats
+4. Baby clothing and accessories
+5. Kids' furniture (cribs, high chairs)
+6. Nursery decor
+7. Kids' electronics (tablets, headphones)
+
+Sports and Outdoors
+1. Fitness equipment (dumbbells, resistance bands)
+2. Sports gear (basketballs, soccer balls, tennis rackets)
+3. Outdoor gear (tents, sleeping bags, backpacks)
+4. Camping equipment (stoves, lanterns)
+5. Cycling gear (bicycles, helmets)
+6. Water sports equipment (surfboards, kayaks)
+7. Hiking and trail gear
+
+Books and Media
+1. Books (fiction, non-fiction, textbooks)
+2. E-books
+3. Audiobooks
+4. Music CDs
+5. DVDs and Blu-rays
+6. Video games
+7. Subscription services (streaming platforms, software)
+
+Food and Beverages
+1. Gourmet food items (chocolates, cheeses)
+2. Specialty teas and coffees
+3. Wine and liquor
+4. Fresh produce and meats
+5. Snacks (chips, nuts, popcorn)
+6. Baking supplies
+7. Cooking ingredients
+
+Pet Care
+1. Pet food and treats
+2. Pet accessories (collars, leashes, toys)
+3. Pet grooming products
+4. Pet health supplements
+5. Pet furniture (beds, crates)
+6. Pet apparel
+7. Pet training equipment
+
+Art and Handmade
+1. Paintings and artwork
+2. Handmade jewelry
+3. Crafts (knitted items, pottery)
+4. Sculptures
+5. Photography
+6. Customized items (phone cases, mugs)
+7. Vintage items
+
+Other
+1. Musical instruments
+2. Office supplies
+3. School supplies
+4. Travel gear (luggage, adapters)
+5. Home improvement tools
+6. Industrial equipment
+7. Automotive parts and accessories
