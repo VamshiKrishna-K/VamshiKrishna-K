@@ -1,4 +1,4 @@
-1.Electronics
+1:Electronics
 1. Smartphones
 2. Laptops
 3. Tablets
@@ -10,7 +10,7 @@
 9. Power banks
 10. Chargers
 
-Fashion
+2:Fashion
 1. Clothing (men, women, kids)
 2. Footwear (shoes, sandals, boots)
 3. Accessories (hats, scarves, belts)
@@ -20,7 +20,7 @@ Fashion
 7. Handbags
 8. Wallets
 
-Home and Kitchen
+3:Home and Kitchen
 1. Furniture (sofas, beds, tables)
 2. Home decor (artwork, rugs, curtains)
 3. Kitchen appliances (refrigerators, ovens, mixers)
@@ -29,7 +29,7 @@ Home and Kitchen
 6. Home security systems
 7. Gardening tools
 
-Health and Beauty
+4:Health and Beauty
 1. Skincare products (creams, serums, moisturizers)
 2. Haircare products (shampoos, conditioners, oils)
 3. Makeup and cosmetics
@@ -38,7 +38,7 @@ Health and Beauty
 6. Fitness equipment (treadmills, yoga mats)
 7. Medical devices (blood pressure monitors, thermometers)
 
-Baby and Kids
+5:Baby and Kids
 1. Toys (action figures, dolls, puzzles)
 2. Strollers and prams
 3. Car seats
@@ -47,7 +47,7 @@ Baby and Kids
 6. Nursery decor
 7. Kids' electronics (tablets, headphones)
 
-Sports and Outdoors
+6:Sports and Outdoors
 1. Fitness equipment (dumbbells, resistance bands)
 2. Sports gear (basketballs, soccer balls, tennis rackets)
 3. Outdoor gear (tents, sleeping bags, backpacks)
@@ -56,7 +56,7 @@ Sports and Outdoors
 6. Water sports equipment (surfboards, kayaks)
 7. Hiking and trail gear
 
-Books and Media
+7:Books and Media
 1. Books (fiction, non-fiction, textbooks)
 2. E-books
 3. Audiobooks
@@ -65,7 +65,7 @@ Books and Media
 6. Video games
 7. Subscription services (streaming platforms, software)
 
-Food and Beverages
+8:Food and Beverages
 1. Gourmet food items (chocolates, cheeses)
 2. Specialty teas and coffees
 3. Wine and liquor
@@ -74,7 +74,7 @@ Food and Beverages
 6. Baking supplies
 7. Cooking ingredients
 
-Pet Care
+9:Pet Care
 1. Pet food and treats
 2. Pet accessories (collars, leashes, toys)
 3. Pet grooming products
@@ -83,7 +83,7 @@ Pet Care
 6. Pet apparel
 7. Pet training equipment
 
-Art and Handmade
+10:Art and Handmade
 1. Paintings and artwork
 2. Handmade jewelry
 3. Crafts (knitted items, pottery)
@@ -92,7 +92,7 @@ Art and Handmade
 6. Customized items (phone cases, mugs)
 7. Vintage items
 
-Other
+11:Other
 1. Musical instruments
 2. Office supplies
 3. School supplies
