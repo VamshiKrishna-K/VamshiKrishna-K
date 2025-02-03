@@ -15,7 +15,6 @@ p=fopen("a1z.txt","r");
     {
     if(c==ch)
     {
-      printf("\n%d",i);
       while((c=getc(k))!='.')
         printf("%c",c);
       break;
