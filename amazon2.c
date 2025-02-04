@@ -37,190 +37,188 @@ struct category cat[0]=
 {" Smartwatches",{
                    {" Android", 12000,  2}, 
                     {"Apple Watch"25000,  2},
-                    {"Budget" 5000,  2 },
+                    {"Budget" 5000,  2 }
                  }
 },
 
-{" Gaming consoles",{
-    {" PlayStation", 25000,12 
-    {" Xbox",30000, Size: 12 inches
-    {" Nintendo",20000, Size: 10 inches
-6. TVs
-    - LED: ₹40,000, Size: 40 inches
-    - OLED: ₹80,000, Size: 55 inches
-    - Budget: ₹20,000, Size: 24 inches
-7. Headphones
-    - Wireless: ₹5,000, Size: 7 inches
-    - Wired: ₹2,000, Size: 6 inches
-    - Budget: ₹1,000, Size: 5 inches
-8. Speakers
-    - Home theater: ₹15,000, Size: 10 inches
-    - Portable: ₹5,000, Size: 5 inches
-    - Budget: ₹2,000, Size: 3 inches
-9. Power banks
-    - 10,000mAh: ₹1,500, Size: 5 inches
-    - 20,000mAh: ₹3,000, Size: 7 inches
-    - Budget: ₹500, Size: 3 inches
-10. Chargers
-    - Fast charger: ₹1,000, Size: 3 inches
-    - Standard charger: ₹500, Size: 2 inches
-    - Budget: ₹200, Size: 1 inch
-}
-}
-Fashion
-1. Clothing (men, women, kids)
-    - T-shirts: ₹500, Size: varies
-    - Jeans: ₹1,500, Size: varies
-    - Dresses: ₹2,000, Size: varies
-2. Footwear (shoes, sandals, boots)
-    - Sneakers: ₹2,000, Size: varies
-    - Heels: ₹3,000, Size: varies
-    - Boots: ₹4,000, Size: varies
-3. Accessories (hats, scarves, belts)
-    - Hats: ₹500, Size: varies
-    - Scarves: ₹1,000, Size: varies
-    - Belts: ₹1,500, Size: varies
-4. Jewelry (necklaces, earrings, rings)
-    - Necklaces: ₹5,000, Size: varies
-    - Earrings: ₹2,000, Size: varies
-    - Rings: ₹3,000, Size: varies
-5. Watches
-    - Analog: ₹8,000, Size: 1.5 inches
-    - Digital: ₹5,000, Size: 1 inch
-    - Smartwatch: ₹12,000, Size: 1.5 inches
-6. Sunglasses
-    - Aviators: ₹2,000, Size: varies
-    - Wayfarers: ₹3,000, Size: varies
-    - Round: ₹1,500, Size: varies
-7. Handbags
-    - Tote: ₹4,000, Size: varies
-    - Shoulder bag: ₹3,000, Size: varies
-    - Clutch: ₹2,000, Size: varies
-8. Wallets
-    - Leather: ₹1,500, Size: varies
-    - Fabric: ₹500, Size: varies
-    - Card holder: ₹200, Size: varies
-Home and Kitchen
-1. Furniture (sofas, beds, tables)
-    - Sofa: ₹25,000, Size: 80x40 inches
-    - Bed: ₹18,000, Size: 72x36 inches
-    - Table: ₹8,000, Size: 40x20 inches
-2. Home decor (artwork, rugs, curtains)
-    - Artwork: ₹5,000, Size: 20x20 inches
-    - Rugs: ₹3,000, Size: 5x7 feet
-    - Curtains: ₹2,000, Size: 7x10 feet
-3. Kitchen appliances (refrigerators, ovens, mixers)
-    - Refrigerator: ₹35,000, Size: 30x20 inches
-    - Oven: ₹20,000, Size: 20x15 inches
-    - Mixer: ₹8,000, Size: 10x10 inches
-4. Cookware (pots, pans, utensils)
-    - Pots: ₹2,000, Size: 10x10 inches
-    - Pans: ₹1,500, Size: 10x10 inches
-    - Utensils: ₹500, Size: varies
-5. Dinnerware (plates, bowls, cups)
-    - Plates: ₹1,000, Size: 10x10 inches
-    - Bowls: ₹800, Size: 8x8 inches
-    - Cups: ₹500, Size: 6x6 inches
-6. Home security systems
-    - CCTV camera: ₹10,000, Size: 5x5 inches
-    - Alarm system: ₹8,000, Size: 10x10 inches
-7. Gardening tools
-    - Rake: ₹500, Size: 30x10 inches
-    - Hoe: ₹300, Size: 20x10 inches
-    - Watering can: ₹200, Size: 10x10 inches
+{"Gaming consoles", {
+                   {"PlayStation", {25000, 12},
+                    { "Xbox", {30000, 12},
+                    { "Nintendo", {20000, 10}
+                }
+ },
+{"TVs",    {
+            "LED", {40000, 40},
+            "OLED", {80000, 55},
+            "Budget", {20000, 24}
+             }
+},
+        "Headphones": {
+            "Wireless": {5000, 7},
+            "Wired": {2000, 6},
+            "Budget": {1000, 5}
+        },
+        "Speakers": {
+            "Home theater": {15000, 10},
+            "Portable": {5000, 5},
+            "Budget": {2000, 3}
+        },
+        "Power banks": {
+            "10000mAh": {1500, 5},
+            "20000mAh": {3000, 7},
+            "Budget": {500, 3}
+        },
+        "Chargers": {
+            "Fast charger": {1000, 3},
+            "Standard charger": {500, 2},
+            "Budget": {200, 1}
+        }
+    },
+    "Fashion": {
+        "Clothing": {
+            "T-shirts": {500, "varies"},
+            "Jeans": {1500, "varies"},
+            "Dresses": {2000, "varies"}
+        },
+        "Footwear": {
+            "Sneakers": {2000, "varies"},
+            "Heels": {3000, "varies"},
+            "Boots": {4000, "varies"}
+        },
+        "Accessories": {
+            "Hats": {500, "varies"},
+            "Scarves": {1000, "varies"},
+            "Belts": {1500, "varies"}
+        },
+        "Jewelry": {
+            "Necklaces": {5000, "varies"},
+            "Earrings": {2000, "varies"},
+            "Rings": {3000, "varies"}
+        },
+        "Watches": {
+            "Analog": {8000, 1.5},
+            "Digital": {5000, 1},
+            "Smartwatch": {12000, 1.5}
+        },
+        "Sunglasses": {
+            "Aviators": {2000, "varies"},
+            "Wayfarers": {3000, "varies"},
+            "Round": {1500, "varies"}
+        },
+        "Handbags": {
+            "Tote": {4000, "varies"},
+            "Shoulder bag": {3000, "varies"},
+            "Clutch": {2000, "varies"}
+        },
+        "Wallets": {
+            "Leather": {1500, "varies"},
+            "Fabric": {500, "varies"},
+            "Card holder": {200, "varies"}
+        }
+    },
+    "Home and Kitchen": {
+        "Furniture": {
+            "Sofa": {25000, "80x40"},
+            "Bed": {18000, "72x36"},
+            "Table": {8000, "40x20"}
+        },
+        "Home decor": {
+            "Artwork": {5000, "20x20"},
+            "Rugs": {3000, "5x7"},
+            "Curtains": {2000, "7x10"}
+        },
+        "Kitchen appliances": {
+            "Refrigerator": {35000, "30x20"},
+            "Oven": {20000, "20x15"},
+            "Mixer": {8000, "10x10"}
+        },
+        "Home security systems": {
+            "CCTV camera": {10000, "5x5"},
+            "Alarm system": {8000, "10x10"}
+        }
+    },
+    "Health and Beauty": {
+        "Skincare": {
+            "Cream": {800, "100ml"},
+            "Serum": {1200, "30ml"},
+            "Moisturizer": {500, "200ml"}
+        },
+        "Haircare": {
+            "Shampoo": {300, "200ml"},
+            "Conditioner": {400, "200ml"},
+            "Oil": {200, "100ml"}
+        },
+        "Makeup": {
+            "Foundation": {1000, "30ml"},
+            "Eyeshadow": {800, "10x10"},
+            "Lipstick": {500, "10x10"}
+        },
+        "Fragrances": {
+            "Perfume": {2000, "50ml"},
+            "Cologne": {1500, "100ml"}
+        },
+        "Fitness equipment": {
+            "Treadmill": {25000, "60x20"},
+            "Yoga mat": {500, "60x20"}
+        }
+    },
+    "Baby and Kids": {
+        "Toys": {
+            "Action figures": {500, "10x10"},
+            "Dolls": {800, "20x10"},
+            "Puzzles": {300, "10x10"}
+        },
+        "Strollers": {
+            "Stroller": {8000, "40x20"},
+            "Pram": {5000, "30x15"}
+        },
+        "Kids furniture": {
+            "Crib": {10000, "40x20"},
+            "High chair": {5000, "30x15"}
+        }
+    },
+    "Sports and Outdoors": {
+        "Fitness equipment": {
+            "Dumbbells": {2000, "10x10"},
+            "Resistance bands": {1500, "10x10"}
+        },
+        "Outdoor gear": {
+            "Tents": {8000, "20x15"},
+            "Sleeping bags": {5000, "10x10"}
+        }
+    },
+    "Books and Media": {
+        "Books": {
+            "Fiction": {500, "10x10"},
+            "Non-fiction": {500, "10x10"},
+            "Textbooks": {500, "10x10"}
+        },
+        "E-books": {
+            "Digital": {200, "N/A"}
+        },
+        "Music": {
+            "CDs": {200, "5x5"},
+            "DVDs": {300, "5x5"}
+        }
+    },
+    "Food and Beverages": {
+        "Gourmet food": {
+            "Chocolates": {1000, "10x10"},
+            "Cheeses": {1000, "10x10"}
+        },
+        "Specialty drinks": {
+            "Tea": {500, "10x10"},
+            "Coffee": {500, "10x10"}
+        }
+    },
+    "Pet Care": {
+        "Pet food": {
+            "Dog food": {500, "10x10"},
+            "Cat food": {500, "10x10"}
+        },
+        "Pet accessories": {
+            "Collars": {200, "10x10"},
+            "Leashes": {200, "10x10"}
+        }
+    }
 
-Health and Beauty
-1. Skincare products (creams, serums, moisturizers)
-    - Cream: ₹800, Size: 100ml
-    - Serum: ₹1,200, Size: 30ml
-    - Moisturizer: ₹500, Size: 200ml
-2. Haircare products (shampoos, conditioners, oils)
-    - Shampoo: ₹300, Size: 200ml
-    - Conditioner: ₹400, Size: 200ml
-    - Oil: ₹200, Size: 100ml
-3. Makeup and cosmetics
-    - Foundation: ₹1,000, Size: 30ml
-    - Eyeshadow: ₹800, Size: 10x10 inches
-    - Lipstick: ₹500, Size: 10x10 inches
-4. Fragrances (perfumes, colognes)
-    - Perfume: ₹2,000, Size: 50ml
-    - Cologne: ₹1,500, Size: 100ml
-5. Health supplements (vitamins, proteins)
-    - Vitamins: ₹500, Size: 100 tablets
-    - Proteins: ₹1,000, Size: 1kg
-6. Fitness equipment (treadmills, yoga mats)
-    - Treadmill: ₹25,000, Size: 60x20 inches
-    - Yoga mat: ₹500, Size: 60x20 inches
-7. Medical devices (blood pressure monitors, thermometers)
-    - Blood pressure monitor: ₹2,000, Size: 10x10 inches
-    - Thermometer: ₹500, Size: 10x10 inches
-
-Baby and Kids
-1. Toys (action figures, dolls, puzzles)
-    - Action figures: ₹500, Size: 10x10 inches
-    - Dolls: ₹800, Size: 20x10 inches
-    - Puzzles: ₹300, Size: 10x10 inches
-2. Strollers and prams
-    - Stroller: ₹8,000, Size: 40x20 inches
-    - Pram: ₹5,000, Size: 30x15 inches
-3. Car seats
-    - Car seat: ₹5,000, Size: 20x15 inches
-4. Baby clothing and accessories
-    - Clothing: ₹500, Size: varies
-    - Accessories: ₹200, Size: varies
-5. Kids' furniture (cribs, high chairs)
-    - Crib: ₹10,000, Size: 40x20 inches
-    - High chair: ₹5,000, Size: 30x15 inches
-Sports and Outdoors
-1. Fitness equipment (dumbbells, resistance bands) - ₹2,000, Size: 10x10 inches
-2. Sports gear (basketballs, soccer balls, tennis rackets) - ₹1,500, Size: 10x10 inches
-3. Outdoor gear (tents, sleeping bags, backpacks) - ₹8,000, Size: 20x15 inches
-4. Camping equipment (stoves, lanterns) - ₹4,000, Size: 10x10 inches
-5. Cycling gear (bicycles, helmets) - ₹15,000, Size: 50x20 inches
-6. Water sports equipment (surfboards, kayaks) - ₹20,000, Size: 60x20 inches
-7. Hiking and trail gear - ₹5,000, Size: 20x10 inches
-
-Books and Media
-1. Books (fiction, non-fiction, textbooks) - ₹500, Size: 10x10 inches
-2. E-books - ₹200, Size: digital
-3. Audiobooks - ₹300, Size: digital
-4. Music CDs - ₹200, Size: 5x5 inches
-5. DVDs and Blu-rays - ₹300, Size: 5x5 inches
-6. Video games - ₹1,000, Size: 10x10 inches
-7. Subscription services (streaming platforms, software) - ₹500, Size: digital
-
-Food and Beverages
-1. Gourmet food items (chocolates, cheeses) - ₹1,000, Size: 10x10 inches
-2. Specialty teas and coffees - ₹500, Size: 10x10 inches
-3. Wine and liquor - ₹2,000, Size: 10x10 inches
-4. Fresh produce and meats - ₹500, Size: varies
-5. Snacks (chips, nuts, popcorn) - ₹200, Size: 10x10 inches
-6. Baking supplies - ₹300, Size: 10x10 inches
-7. Cooking ingredients - ₹500, Size: varies
-
-Pet Care
-1. Pet food and treats - ₹500, Size: 10x10 inches
-2. Pet accessories (collars, leashes, toys) - ₹200, Size: 10x10 inches
-3. Pet grooming products - ₹300, Size: 10x10 inches
-4. Pet health supplements - ₹500, Size: 10x10 inches
-5. Pet furniture (beds, crates) - ₹1,500, Size: 20x15 inches
-6. Pet apparel - ₹200, Size: varies
-7. Pet training equipment - ₹500, Size: 10x10 inches
-
-Art and Handmade
-1. Paintings and artwork - ₹5,000, Size: 20x20 inches
-2. Handmade jewelry - ₹2,000, Size: 5x5 inches
-3. Crafts (knitted items, pottery) - ₹1,000, Size: 10x10 inches
-4. Sculptures - ₹3,000, Size: 10x10 inches
-5. Photography - ₹2,000, Size: 10x10 inches
-6. Customized items (phone cases, mugs) - ₹500, Size: 5x5 inches
-7. Vintage items - ₹1,500, Size: varies
-
-Other
-1. Musical instruments - ₹10,000, Size: 40x20 inches
-2. Office supplies - ₹500, Size: 10x10 inches
-3. School supplies - ₹200, Size: 10x10 inches
-4. Travel gear (luggage, adapters) - ₹2,000, Size: 20x15 inches
-5. Home improvement tools - ₹1,500, Size: 10x10 inches
-6. Industrial equipment - ₹5,000, Size: 20x15 inches
-7. Automotive parts and accessories - ₹1,000, Size: 10x10 inches
