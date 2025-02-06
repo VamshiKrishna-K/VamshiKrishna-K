@@ -42,85 +42,100 @@ struct category cat[0]=
 },
 
 {"Gaming consoles", {
-                   {"PlayStation", {25000, 12},
-                    { "Xbox", {30000, 12},
-                    { "Nintendo", {20000, 10}
+                   {"PlayStation", 25000, 12},
+                    { "Xbox", 30000, 12},
+                    { "Nintendo", 20000, 10}
                 }
  },
 {"TVs",    {
-            "LED", {40000, 40},
-            "OLED", {80000, 55},
-            "Budget", {20000, 24}
+               {"LED", 40000, 40},
+               {"OLED", 80000, 55},
+               {"Budget", 20000, 24}
              }
 },
-        "Headphones": {
-            "Wireless": {5000, 7},
-            "Wired": {2000, 6},
-            "Budget": {1000, 5}
+{ "Headphones", {
+                  {"Wireless", 5000, 7},
+                  {"Wired", 2000, 6},
+                   {"Budget", 1000, 5}
+                 }
         },
-        "Speakers": {
-            "Home theater": {15000, 10},
-            "Portable": {5000, 5},
-            "Budget": {2000, 3}
+{"Speakers", {
+             { "Home theater",15000, 10},
+              {"Portable" ,5000, 5},
+              {"Budget" ,2000, 3}
+           }
         },
-        "Power banks": {
-            "10000mAh": {1500, 5},
-            "20000mAh": {3000, 7},
-            "Budget": {500, 3}
+{"Power banks", {
+                  {"10000mAh", 1500, 5},
+                  {"20000mAh", 3000, 7},
+                   {"Budget", 500, 3}
+                 }
         },
-        "Chargers": {
-            "Fast charger": {1000, 3},
-            "Standard charger": {500, 2},
-            "Budget": {200, 1}
-        }
-    },
-    "Fashion": {
-        "Clothing": {
-            "T-shirts": {500, "varies"},
-            "Jeans": {1500, "varies"},
-            "Dresses": {2000, "varies"}
+{"Chargers", {
+                {"Fast charger", {1000, 3},
+                {"Standard charger", {500, 2},
+                {"Budget", {200, 1}
+            }
+       }}
+};
+struct category cat[1]=
+{ "Fashion", 
+        {{"Clothing", {
+                        {"T-shirts", {500, "varies"},
+                         {"Jeans", {1500, "varies"},
+                         { "Dresses", {2000, "varies"}
+                       }
+         },
+{ "Footwear", {
+                {"Sneakers", 2000, "varies"},
+                { "Heels",3000, "varies"},
+                {"Boots",4000, "varies"}
+
+                }
         },
-        "Footwear": {
-            "Sneakers": {2000, "varies"},
-            "Heels": {3000, "varies"},
-            "Boots": {4000, "varies"}
+{"Accessories", {
+                  {"Hats" ,500, "varies"},
+                  { "Scarves",1000, "varies"},
+                  {"Belts",1500, "varies"}
+                 }
         },
-        "Accessories": {
-            "Hats": {500, "varies"},
-            "Scarves": {1000, "varies"},
-            "Belts": {1500, "varies"}
+{"Jewellery", {
+                {"Necklaces", 5000, "varies"},
+                { "Earrings", 2000, "varies"},
+                {"Rings", 3000, "varies"}
+              }
         },
-        "Jewelry": {
-            "Necklaces": {5000, "varies"},
-            "Earrings": {2000, "varies"},
-            "Rings": {3000, "varies"}
+{ "Watches", {
+              { "Analog",8000, 1.5},
+            {"Digital",5000, 1},
+            { "Smartwatch",12000, 1.5}
+            }
         },
-        "Watches": {
-            "Analog": {8000, 1.5},
-            "Digital": {5000, 1},
-            "Smartwatch": {12000, 1.5}
+{ "Sunglasses", {
+                  {"Aviators",2000, 0},
+                  { "Wayfarers",3000, 0},
+                   { "Round",1500, 0}
         },
-        "Sunglasses": {
-            "Aviators": {2000, "varies"},
-            "Wayfarers": {3000, "varies"},
-            "Round": {1500, "varies"}
+{ "Handbags", {
+                { "Tote",4000, 0},
+                  {"Shoulder bag",3000, 0},
+                 {"Clutch",2000, 0}
+              }
         },
-        "Handbags": {
-            "Tote": {4000, "varies"},
-            "Shoulder bag": {3000, "varies"},
-            "Clutch": {2000, "varies"}
-        },
-        "Wallets": {
-            "Leather": {1500, "varies"},
-            "Fabric": {500, "varies"},
-            "Card holder": {200, "varies"}
-        }
-    },
-    "Home and Kitchen": {
-        "Furniture": {
-            "Sofa": {25000, "80x40"},
-            "Bed": {18000, "72x36"},
-            "Table": {8000, "40x20"}
+{"Wallets": {
+              {"Leather" ,1500,0},
+            {"Fabric",500, 0},
+           { "Card holder",200, 0}
+            }
+    }}
+};
+struct category cat[2]=
+{{ "Home and Kitchen",
+{ "Furniture", {
+                 { "Sofa",25000, "80x40"},
+                { "Bed",18000, "72x36"},
+                { "Table",8000, "40x20"}
+               }
         },
         "Home decor": {
             "Artwork": {5000, "20x20"},
