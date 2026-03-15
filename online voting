@@ -1,11 +1,4 @@
-/* DS CBP Title:Online voting system
-Team-mates
-  1.Maithreya Reddy  24071A05P1
-  2.G.Sathwik        24071A05P9
-  3.K.Vamshi krishna 24071A05Q6
-  4.K.Anirud         24071A05Q9
-  5.K.Sreekar        24071A05R0
-  */
+/* DS CBP Title:Online voting system  */
   #include<stdio.h>
   #include<string.h>
   #include<stdlib.h>
